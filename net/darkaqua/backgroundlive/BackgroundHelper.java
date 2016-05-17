@@ -10,6 +10,8 @@ import java.util.HashMap;
 
 /**
  * Created by cout970 on 14/05/2016.
+ * Previously stolen by pagoru on 13/05/2016 from stackoverflow.
+ * 
  */
 public class BackgroundHelper {
 
